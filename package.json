@@ -1,0 +1,28 @@
+{
+  "name": "backend-chai",
+  "version": "1.0.0",
+  "description": "A backend at chai aur code YT channel.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krgyaan/Backend-Chai.git"
+  },
+  "keywords": [
+    "Backend",
+    "Chai",
+    "JS"
+  ],
+  "author": "Gyan Prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krgyaan/Backend-Chai/issues"
+  },
+  "homepage": "https://github.com/krgyaan/Backend-Chai#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
